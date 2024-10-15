@@ -70,5 +70,5 @@ chmod +x start.sh
 
 # Credits
 echo "==========================================="
-echo "  Script ini dibuat oleh t.me/adefebrianft"
+echo "  Script ini dibuat oleh t.me/garapanbimo"
 echo "==========================================="
